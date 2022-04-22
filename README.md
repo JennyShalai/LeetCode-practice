@@ -1,2 +1,2 @@
 # LeetCode-practice
-repo for leetcode.com chalenges prectice 
+repo for leetcode.com challenges prectice 
