@@ -7,11 +7,9 @@
 def removeElement(nums, val):
     index = 0
     for i in range(0, len(nums)):
-      print(nums[i])
       if nums[i] != val:
         nums[index] = nums[i]
         index += 1
-    print(nums)
     return index
 
 print(removeElement([1,3,3,1],3))
