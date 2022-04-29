@@ -11,7 +11,7 @@ def sumInts(arr1, arr2):
   if len(num1) > len(num2):
     for i in range(len(num2), len(num1)):
       num2.append(0)
-  if len(num2) > len(num1):
+  else:
     for i in range(len(num1), len(num2)):
       num1.append(0)
 
@@ -20,9 +20,7 @@ def sumInts(arr1, arr2):
     foo = num1[i] + num2[i]
     if exceedsTen:
       foo += 1
-    if foo < 10:
       exceedsTen = False
-      foo = foo
     if foo > 9:
       exceedsTen = True
       foo = foo % 10
@@ -32,7 +30,6 @@ def sumInts(arr1, arr2):
   # if last colculation exceed 10
   if exceedsTen:
     result.append(1)
-  
   return result[::-1]
 
 print(sumInts([1],[9]))      #[1,0]
