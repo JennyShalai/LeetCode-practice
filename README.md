@@ -5,4 +5,5 @@ repo for leetcode.com challenges prectice
 - 2 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/add-two-ints-as-arrays.py) - Add Two Numbers: sum two numbers given as array of digits
 - 13 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/roman-to-int.py) - Roman to Int: convert given roman number to int
 - 14 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/longest-common-prefix.py) - Longest Common Prefix
+- 27 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/remove-element.py) - Remove Element: sort array
 - 75 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/sort-colors.py) - Sort Colors: sort given array
