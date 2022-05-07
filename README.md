@@ -6,6 +6,7 @@ repo for leetcode.com challenges prectice
 - 9 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/palindrome-number.py) - is given integer palindrome 
 - 13 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/roman-to-int.py) - Roman to Int: convert given roman number to int
 - 14 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/longest-common-prefix.py) - Longest Common Prefix
+- 20 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/valid-parentheses.py) - Valid Parentheses
 - 26 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/remove-duplicates.py) - Remove dublicats: sort array in-place
 - 27 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/remove-element.py) - Remove Element: sort array in-place
 - 28 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/implement-strStr().py) - Implement strStr(): find index of occurrence str in string
