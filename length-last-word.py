@@ -6,3 +6,14 @@ def lengthOfLastWord2(s):
   s = s.strip()
   sArr = s.split(sep=' ')
   return len(sArr[-1])
+
+# algorithmic approach
+def lengthOfLastWord1(s):
+  s = s[::-1].strip()
+  result = 0
+  for char in s:
+    if char == ' ':
+      return result
+    else:
+      result += 1
+  return result
