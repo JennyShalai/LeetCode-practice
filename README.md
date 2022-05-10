@@ -12,4 +12,5 @@ repo for leetcode.com challenges prectice
 - 28 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/implement-strStr().py) - Implement strStr(): find index of occurrence str in string
 - 53 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/maximum-sbarray.py) - Maximum Subarray: 
 - 58 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/length-last-word.py) - Length of Last Word: in given string 
+- 66 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/plus-one.py) - Plus one: int given as array of digits
 - 75 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/sort-colors.py) - Sort Colors: sort given array
