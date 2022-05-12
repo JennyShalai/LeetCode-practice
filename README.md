@@ -15,4 +15,5 @@ repo for leetcode.com challenges prectice
 - 66 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/plus-one.py) - Plus one: int given as array of digits
 - 75 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/sort-colors.py) - Sort Colors: sort given array
 - 121 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/buy-sell-stock.py) - Best Time to Buy and Sell Stock
+- 125 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/valid-palindrome-text.py) - Valid Palindrome
 
