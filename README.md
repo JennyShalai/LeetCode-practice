@@ -16,5 +16,6 @@ repo for leetcode.com challenges prectice
 - 75 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/sort-colors.py) - Sort Colors: sort given array
 - 121 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/buy-sell-stock.py) - Best Time to Buy and Sell Stock
 - 125 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/valid-palindrome-text.py) - Valid Palindrome
-- 136 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/single-number.py) - Single Number: find single number in given array
+- 136 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/single-number.py) - Single Number: find single number in given array
+- 169 - [dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/majority-element.py) - Majority Element: more frequent element in the array
 
