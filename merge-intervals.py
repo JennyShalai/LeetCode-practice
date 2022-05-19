@@ -3,18 +3,7 @@ def merge(intervals):
     return intervals
 
   # sorting intervals in incrising order
-  sortDict = {}
-  sortedIntervals = []
-  for i in intervals:
-    start = i[0]
-    end = i[1]
-    if start in sortDict:
-      end = max(end,sortDict[start][1])
-      sortDict[i[0]][1] = end 
-    else:
-      sortDict[start] = i
-  for n in sorted(sortDict.keys()):
-    sortedIntervals.append(sortDict[n])
+  intervals.sort()
     
   # merging sorted intervals
   end = -1
