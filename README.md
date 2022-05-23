@@ -10,6 +10,7 @@ repo for leetcode.com challenges prectice
 - 26 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/remove-duplicates.py) - Remove dublicats: sort array in-place
 - 27 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/remove-element.py) - Remove Element: sort array in-place
 - 28 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/implement-strStr().py) - Implement strStr(): find index of occurrence str in string
+- 38 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/count-and-say.py) - Count and Say
 - 53 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/maximum-sbarray.py) - Maximum Subarray: 
 - 56 - [logic/dict](https://github.com/JennyShalai/LeetCode-practice/blob/main/merge-intervals.py) - Merge intervals
 - 58 - [logic](https://github.com/JennyShalai/LeetCode-practice/blob/main/length-last-word.py) - Length of Last Word: in given string 
